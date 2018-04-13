@@ -1,19 +1,14 @@
 /*-------------------------
 	Simple reset
 --------------------------*/
-
-
 *{
 	margin:0;
 	padding:0;
 }
 
-
 /*-------------------------
 	General Styles
 --------------------------*/
-
-
 html{
 	/*background:url('../img/bg.png') repeat #e4e4e4;*/
 		
@@ -40,11 +35,9 @@ section, footer, header{
 	display: block;
 }
 
-
 /*-------------------------
 	Main Area
 --------------------------*/
-
 hgroup{
 	position: fixed;
 	background-color: rgba(255, 255, 255, 0.7);
@@ -152,11 +145,10 @@ height:240px;
 border:2px green solid;
 z-index:120
 }
+
 /*----------------------------
 	The Footer
 -----------------------------*/
-
-
 footer{
 	background-color: #111111;
 	bottom: 0;
